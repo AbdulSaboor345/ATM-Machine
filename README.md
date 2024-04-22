@@ -1,9 +1,11 @@
 ATM Machine Project - Read Me
 
 Project Overview:
+
 This project aims to develop an ATM (Automated Teller Machine) simulation with essential features like login, cash withdrawal, and balance inquiry. The implementation will be in JavaScript (JS) and TypeScript (TS) to ensure robustness and maintainability.
 
 Developer:
+
 Abdul Saboor
 
 Features:
@@ -21,8 +23,10 @@ Users can inquire about their account balance at any time.
 Display the balance accurately and securely.
 Technologies Used:
 
+Inquirer
 JavaScript (JS)
 TypeScript (TS)
+
 Instructions for Running the Project:
 
 Clone the project repository from [ https://github.com/AbdulSaboor345/ATM-Machine.git].
@@ -32,6 +36,7 @@ Install project dependencies by running npm install.
 Compile TypeScript files to JavaScript (if applicable) using tsc command.
 Run the project using node app.js command.
 Access the ATM simulation through your preferred web browser.
+
 Contributing:
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
@@ -41,8 +46,10 @@ This project is licensed under the [License Name]. See the LICENSE file for more
 
 Acknowledgments:
 
-Special thanks to [Code with Hamza] for their contributions and support.
+Special thanks to [Code with Hamza] for his contributions and support.
+
 Contact:
+
 For any inquiries or support, contact Abdul Saboor at [a.saboor.no.1@gmail.com].
 
 Note:
